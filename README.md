@@ -22,24 +22,25 @@
 
 ```yaml
 name: Ela Toumi
-role: AI Engineering Student · Builder
-location: Tunis, Tunisia 🇹🇳
+role: AI Engineering Student 
 school: ESPRIT Engineering School
-degree: 3rd Year — AI Engineering (GPA 17.4/20)
+degree: 4rd Year — AI Engineering 
 focus: [LLMs, Multi-Agent Systems, XAI, Applied Machine Learning]
 currently: Building an AI research platform
-seeking: AI Engineering internships 🌸
 ```
 
 <br/>
 
 ## 🌸 Featured Projects
 
+### 🌾 CropDNA
+> A research platform built with ESPRIT, bringing together deep learning and semantic search into one cohesive system — turning raw scientific data into predictions and answers domain experts can actually query and act on.
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Predictive Deep Learning Model
+#### 🧠 Predictive Deep Learning Model
 - Transformer-based model (1B params) fine-tuned with lightweight adapters (IA³)
 - AUC-ROC **0.9636** · AUPRC **0.9590** · F1 **0.8827**
 - Explainability suite: attention heatmaps, Grad-CAM, embedding projections
@@ -48,7 +49,7 @@ seeking: AI Engineering internships 🌸
 </td>
 <td width="50%" valign="top">
 
-### 🔎 Semantic Search Engine
+#### 🔎 Semantic Search Engine
 - Hybrid retrieval: dense embeddings + sparse features (RRF fusion)
 - **MRR 0.78** · NDCG@5 0.81 · +90% precision vs keyword search
 - RAG (LLaMA 3.1/Groq) + LangGraph multi-agent orchestration
@@ -60,47 +61,60 @@ seeking: AI Engineering internships 🌸
 
 <br/>
 
-## ⚡ Tech Stack
-
-<div align="center">
-
-**Languages**
-<br/>
-![Python](https://img.shields.io/badge/Python-ffb3d9?style=for-the-badge&logo=python&logoColor=1a1023)
-![Java](https://img.shields.io/badge/Java-ff9ecf?style=for-the-badge&logo=openjdk&logoColor=1a1023)
-![JavaScript](https://img.shields.io/badge/JavaScript-f9a8d4?style=for-the-badge&logo=javascript&logoColor=1a1023)
+### 🩺 MediFlow
+> A patient-doctor triage platform designed to save time on both sides of a consultation — not to replace medical judgment, but to make it faster to reach.
+- Built with **Django + LangChain + LangGraph + XGBoost**
+- Structures patient input, flags urgency, and routes cases before they reach a doctor
+- Designed as a support tool for early triage, not a diagnostic replacement
 
 <br/>
 
-**AI / ML**
+## ⚙️ Tech Stack
+
+**🤖 AI & Machine Learning**
 <br/>
-![PyTorch](https://img.shields.io/badge/PyTorch-ff8fc4?style=for-the-badge&logo=pytorch&logoColor=1a1023)
-![HuggingFace](https://img.shields.io/badge/🤗_HF_Transformers-f472b6?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-ffb3d9?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-ff9ecf?style=for-the-badge)
-![XGBoost](https://img.shields.io/badge/XGBoost-e88bc4?style=for-the-badge)
-![Scikit_learn](https://img.shields.io/badge/scikit--learn-f7a8d0?style=for-the-badge&logo=scikitlearn&logoColor=1a1023)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-2E5339?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
 
 <br/>
 
-**Backend & Deployment**
+**🧑‍💻 Languages**
 <br/>
-![FastAPI](https://img.shields.io/badge/FastAPI-e88bc4?style=for-the-badge&logo=fastapi&logoColor=1a1023)
-![Django](https://img.shields.io/badge/Django-ff8fc4?style=for-the-badge&logo=django&logoColor=1a1023)
-![Docker](https://img.shields.io/badge/Docker-ffb3d9?style=for-the-badge&logo=docker&logoColor=1a1023)
-![HuggingFace Spaces](https://img.shields.io/badge/🤗_Spaces-f472b6?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00618A?style=flat-square&logo=mysql&logoColor=white)
 
 <br/>
 
-**Frontend & Tools**
+**🛠️ Frameworks & Tools**
 <br/>
-![React](https://img.shields.io/badge/React-f9a8d4?style=for-the-badge&logo=react&logoColor=1a1023)
-![Next.js](https://img.shields.io/badge/Next.js-ff9ecf?style=for-the-badge&logo=nextdotjs&logoColor=1a1023)
-![Git](https://img.shields.io/badge/Git-ffb3d9?style=for-the-badge&logo=git&logoColor=1a1023)
-![Kaggle](https://img.shields.io/badge/Kaggle-ff8fc4?style=for-the-badge&logo=kaggle&logoColor=1a1023)
-![LaTeX](https://img.shields.io/badge/LaTeX-e88bc4?style=for-the-badge&logo=latex&logoColor=1a1023)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-</div>
+<br/>
+
+**🗄️ Infrastructure & Data**
+<br/>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+![HuggingFace Spaces](https://img.shields.io/badge/🤗_Spaces-FFD21E?style=flat-square&logoColor=black)
 
 <br/>
 
