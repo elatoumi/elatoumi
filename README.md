@@ -4,14 +4,14 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF7EB6&center=true&vCenter=true&width=600&lines=%5BSYSTEM%5D+AI+Engineering+Student+%7C+Tunis%2C+Tunisia+%F0%9F%87%B9%F0%9F%87%B3;Building+AI+platforms+%40+ESPRIT;LLMs+%2B+Multi-Agent+Systems+%2B+XAI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF7EB6&center=true&vCenter=true&width=600&lines=AI+Engineering+Student+%F0%9F%87%B9%F0%9F%87%B3;Building+Intelligent+Solutions;LLMs+%2B+Multi-Agent+Systems+%2B+XAI" alt="Typing SVG" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-ff8fc4?style=for-the-badge&logo=linkedin&logoColor=1a1023" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-f472b6?style=for-the-badge&logo=gmail&logoColor=1a1023" /></a>
+<a href="https://www.linkedin.com/in/toumi-ela-179938324/"><img src="https://img.shields.io/badge/LinkedIn-ff8fc4?style=for-the-badge&logo=linkedin&logoColor=1a1023" /></a>
+<a href="mailto:elatoumi22@gmail.com"><img src="https://img.shields.io/badge/Gmail-f472b6?style=for-the-badge&logo=gmail&logoColor=1a1023" /></a>
 <a href="https://huggingface.co/elatoumi"><img src="https://img.shields.io/badge/HuggingFace-ffb3d9?style=for-the-badge&logo=huggingface&logoColor=1a1023" /></a>
-<a href="https://YOUR-PORTFOLIO-LINK.vercel.app"><img src="https://img.shields.io/badge/Portfolio-e88bc4?style=for-the-badge&logo=vercel&logoColor=1a1023" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-coming_soon-e88bc4?style=for-the-badge&logo=vercel&logoColor=1a1023" /></a>
 <img src="https://komarev.com/ghpvc/?username=elatoumi&style=for-the-badge&color=ff8fc4&label=PROFILE+VIEWS" />
 
 </div>
@@ -22,25 +22,24 @@
 
 ```yaml
 name: Ela Toumi
-role: AI Engineering Student 
+role: AI Engineering Student · Builder
+location: Tunis, Tunisia 🇹🇳
 school: ESPRIT Engineering School
-degree: 4rd Year — AI Engineering 
+degree: 3rd Year — AI Engineering (GPA 17.4/20)
 focus: [LLMs, Multi-Agent Systems, XAI, Applied Machine Learning]
 currently: Building an AI research platform
+seeking: AI Engineering internships 🌸
 ```
 
 <br/>
 
 ## 🌸 Featured Projects
 
-### 🌾 CropDNA
-> A research platform built with ESPRIT, bringing together deep learning and semantic search into one cohesive system — turning raw scientific data into predictions and answers domain experts can actually query and act on.
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🧠 Predictive Deep Learning Model
+### 🧠 Predictive Deep Learning Model
 - Transformer-based model (1B params) fine-tuned with lightweight adapters (IA³)
 - AUC-ROC **0.9636** · AUPRC **0.9590** · F1 **0.8827**
 - Explainability suite: attention heatmaps, Grad-CAM, embedding projections
@@ -49,7 +48,7 @@ currently: Building an AI research platform
 </td>
 <td width="50%" valign="top">
 
-#### 🔎 Semantic Search Engine
+### 🔎 Semantic Search Engine
 - Hybrid retrieval: dense embeddings + sparse features (RRF fusion)
 - **MRR 0.78** · NDCG@5 0.81 · +90% precision vs keyword search
 - RAG (LLaMA 3.1/Groq) + LangGraph multi-agent orchestration
@@ -57,15 +56,27 @@ currently: Building an AI research platform
 
 </td>
 </tr>
-</table>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+### 🌾 CropDNA
+- Research platform built to help scientists explore and query complex data without needing to code
+- Brings prediction, search, and reasoning together behind a single, simple interface
+- Built with ESPRIT, aimed at making research workflows faster for domain experts
+- Modular architecture, designed to grow with new AI components over time
+
+</td>
+<td width="50%" valign="top">
 
 ### 🩺 MediFlow
-> A patient-doctor triage platform designed to save time on both sides of a consultation — not to replace medical judgment, but to make it faster to reach.
+- Patient-doctor triage platform designed to save time on both sides of a consultation
 - Built with **Django + LangChain + LangGraph + XGBoost**
 - Structures patient input, flags urgency, and routes cases before they reach a doctor
-- Designed as a support tool for early triage, not a diagnostic replacement
+- A support tool for early triage — not a diagnostic replacement
+
+</td>
+</tr>
+</table>
 
 <br/>
 
