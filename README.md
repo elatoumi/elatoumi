@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1023,50:3d1a2e,100:1a1023&height=220&section=header&text=Ela%20Toumi&fontSize=60&fontColor=ff8fc4&animation=fadeIn&fontAlignY=38&desc=AI%20Engineering%20Student%20·%20LLMs%20%26%20Agentic%20Systems&descAlignY=58&descSize=18&descColor=f4c6dc" width="100%"/>
-
-<br/>
+# 🌸 Ela Toumi 🌸
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF7EB6&center=true&vCenter=true&width=600&lines=AI+Engineering+Student+%F0%9F%87%B9%F0%9F%87%B3;Building+Intelligent+Solutions;LLMs+%2B+Multi-Agent+Systems+%2B+XAI" alt="Typing SVG" />
 
@@ -15,6 +13,10 @@
 <img src="https://komarev.com/ghpvc/?username=elatoumi&style=for-the-badge&color=ff8fc4&label=PROFILE+VIEWS" />
 
 </div>
+
+<br/>
+
+---
 
 <br/>
 
@@ -157,5 +159,9 @@ seeking: AI Engineering internships 🌸
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1023,50:3d1a2e,100:1a1023&height=100&section=footer"/>
+
+---
+
+*Thanks for stopping by! 🌸*
+
 </div>
