@@ -1,6 +1,5 @@
 <div align="center">
 
-# 🌸 Ela Toumi 🌸
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF7EB6&center=true&vCenter=true&width=600&lines=AI+Engineering+Student+%F0%9F%87%B9%F0%9F%87%B3;Building+Intelligent+Solutions;LLMs+%2B+Multi-Agent+Systems+%2B+XAI" alt="Typing SVG" />
 
@@ -156,12 +155,4 @@ seeking: AI Engineering internships 🌸
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=elatoumi&theme=dark&background=1a1023&stroke=ff8fc4&ring=f472b6&fire=ff8fc4&currStreakLabel=ff8fc4&sideLabels=f4c6dc&dates=f4c6dc&border=ff8fc4" width="48%"/>
 </div>
 
-<br/>
 
-<div align="center">
-
----
-
-*Thanks for stopping by! 🌸*
-
-</div>
