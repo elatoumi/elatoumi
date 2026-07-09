@@ -8,7 +8,9 @@
 <a href="https://www.linkedin.com/in/toumi-ela-179938324/"><img src="https://img.shields.io/badge/LinkedIn-ff8fc4?style=for-the-badge&logo=linkedin&logoColor=1a1023" /></a>
 <a href="mailto:elatoumi22@gmail.com"><img src="https://img.shields.io/badge/Gmail-f472b6?style=for-the-badge&logo=gmail&logoColor=1a1023" /></a>
 <a href="https://huggingface.co/elatoumi"><img src="https://img.shields.io/badge/HuggingFace-ffb3d9?style=for-the-badge&logo=huggingface&logoColor=1a1023" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-coming_soon-e88bc4?style=for-the-badge&logo=vercel&logoColor=1a1023" /></a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-ff8fc4?style=for-the-badge&logo=vercel&logoColor=1a1023" />
+</a>
 <img src="https://komarev.com/ghpvc/?username=elatoumi&style=for-the-badge&color=ff8fc4&label=PROFILE+VIEWS" />
 
 </div>
